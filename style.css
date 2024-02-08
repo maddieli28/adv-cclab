@@ -1,7 +1,21 @@
-body {
-    background-color: cornflowerblue
+/* styles.css */
+
+.home-background {
+    background-color: rgb(84, 59, 148);
 }
 
-p{
-    color: black
+.page1-background {
+    background-color: rgb(207, 123, 228);
+}
+
+.page2-background {
+    background-color: rgb(90, 121, 83);
+}
+
+.page3-background {
+    background-color: rgb(222, 130, 70);
+}
+
+.page4-background {
+    background-color: rgb(180, 149, 99);
 }
