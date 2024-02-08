@@ -1,2 +1,2 @@
-# Project 3 Handmade Website // 
+# Project 1 Handmade Website // 
 by Maddie Li
